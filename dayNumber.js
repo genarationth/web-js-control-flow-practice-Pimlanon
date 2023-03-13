@@ -1,4 +1,4 @@
-let dayNumber = 0;
+let dayNumber = 3;
 if (dayNumber === 0 ) {
     console.log('Sunday');
 } else if (dayNumber === 1) {
@@ -19,7 +19,7 @@ if (dayNumber === 0 ) {
 
 
 // switch
-let dayByNumber = 1;
+let dayByNumber = '';
 switch (dayByNumber) {
     case 0 :
       console.log('Sunday');
